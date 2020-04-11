@@ -25,6 +25,12 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
+**Notify maintainers**
+<!--
+Please @ people who are in `meta.maintainers` of a package or module.
+If in doubt, check git blame for whomever last touched something.
+-->
+
 **Metadata**
 Please run `nix-shell -p nix-info --run "nix-info -m"` and paste the result.
 
