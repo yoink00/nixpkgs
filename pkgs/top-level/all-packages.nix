@@ -23884,6 +23884,8 @@ in
 
   tremulous = callPackage ../games/tremulous { };
 
+  tuxmath = callPackage ../games/tuxmath { };
+
   tuxpaint = callPackage ../games/tuxpaint { };
 
   tuxtype = callPackage ../games/tuxtype { };

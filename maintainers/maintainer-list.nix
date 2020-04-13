@@ -8444,4 +8444,10 @@
     github = "cpcloud";
     githubId = 417981;
   };
+  swallace = {
+    name = "Stuart Wallace";
+    email = "nixos@wapbot.co.uk";
+    github = "yoink00";
+    githubId = 2726709
+  };
 }
